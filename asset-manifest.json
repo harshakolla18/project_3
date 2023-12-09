@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/project_3/static/css/main.a5660f39.css",
+    "main.js": "/project_3/static/js/main.6387ae12.js",
+    "static/js/787.69af0555.chunk.js": "/project_3/static/js/787.69af0555.chunk.js",
+    "static/media/background.jpeg": "/project_3/static/media/background.2c8aca5944d92e4e765a.jpeg",
+    "static/media/photo.jpeg": "/project_3/static/media/photo.0f362a1ec5e8cee1f280.jpeg",
+    "static/media/pic1.jpeg": "/project_3/static/media/pic1.776a7e17e2963633eeae.jpeg",
+    "static/media/pic3.jpeg": "/project_3/static/media/pic3.00c8f804b46f05037f5b.jpeg",
+    "static/media/pic2.jpeg": "/project_3/static/media/pic2.d1f60b0e600941d36546.jpeg",
+    "static/media/silicon_india.jpeg": "/project_3/static/media/silicon_india.c0b15cec6e5485a5c241.jpeg",
+    "index.html": "/project_3/index.html",
+    "main.a5660f39.css.map": "/project_3/static/css/main.a5660f39.css.map",
+    "main.6387ae12.js.map": "/project_3/static/js/main.6387ae12.js.map",
+    "787.69af0555.chunk.js.map": "/project_3/static/js/787.69af0555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5660f39.css",
+    "static/js/main.6387ae12.js"
+  ]
+}
